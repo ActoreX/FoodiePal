@@ -12,4 +12,14 @@ Editable link: https://canvanizer.com/canvas/QI3vdRYf47A
 Readonly link: https://canvanizer.com/canvas/KILn3VeXFlE 
 
 
-If you still need help, please send your message to support@canvanizer.com
+SWOT Analyze
+-------------
+
+Canvas name: FPCanvas 
+Editable link: https://canvanizer.com/canvas/2CkDDgAHi14 
+Readonly link: https://canvanizer.com/canvas/BFzJw76cHT4 
+
+
+Canvas name: FPCanvas 
+Editable link: https://canvanizer.com/canvas/QI3vdRYf47A 
+Readonly link: https://canvanizer.com/canvas/KILn3VeXFlE 
