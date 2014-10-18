@@ -5,11 +5,13 @@ Here is todo list...
 - http://canvanizer.com
 
 <h2>Sat. 18. 10. 2014:</h2>
+https://github.com/ActoreX/FoodiePal/blob/master/DN02%20-%20Business%20Model%20Canvas/BusinessModelCanvas.md#hello
 <ol>
 	<li>Make Business Model Canvas</li>
 	<li>SWOT analyze</li>
 	<li>Domain registration.</li>
 </ol>
+
 
 <h2>Tue. 21. 10. 2014:</h2>
 <ul>
