@@ -24,5 +24,5 @@ Here is todo list...
 </ul>
 
 
-<ul>Prezentacija</ul>
+<h2>Prezentacija</h2>
 https://canvanizer.com/slideshow/QI3vdRYf47A
