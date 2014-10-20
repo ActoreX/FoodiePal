@@ -23,4 +23,6 @@ Here is todo list...
 	<li>TBA</li>
 </ul>
 
+
+<ul>Prezentacija</ul>
 https://canvanizer.com/slideshow/QI3vdRYf47A
