@@ -12,15 +12,10 @@ Here is todo list...
 </ol>
 
 
-<h2>Tue. 21. 10. 2014:</h2>
-<ul>
-	<li>TBA</li>
-</ul>
-
 
 <h2>Thu. 23. 10. 2014:</h2>
 <ul>
-	<li>TBA</li>
+	<a href="https://github.com/ActoreX/FoodiePal/wiki">Wiki established.</a>
 </ul>
 
 
