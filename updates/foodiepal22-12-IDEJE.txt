@@ -1,0 +1,23 @@
+Foodiepal 22.12.2014
+
+naroènik
+-sledenje dostavljalcu na poti
+-odštevanje èasa
+-vidi, kdaj je dostavljalec blizu, da lahko gre iskat (v bloku)
+-hitro naroèilo - npr tisto pico, ki jo vedno naroèi
+-customer feedback
+
+dostavljalec
+-navigacija do naroènika
+
+picopek
+-live-ask, èe mu kaj ni jasno
+
+
+*rešene težave
+-avtentikacija uporabnika, ni zlorab - nepravih naroèil
+-navigacija do naroènika
+-nejasnosti pri naroèilu
+
+**ideje
+-uber za dostavo hrane - vsak (ki je pristojen ... tistega, ki ga doloèi/avtenticira picopek) lahko dostavlja
