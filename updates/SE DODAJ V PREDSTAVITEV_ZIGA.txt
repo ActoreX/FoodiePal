@@ -5,3 +5,7 @@ flow/tok dela v prihodnosti
 
 -boljsi demo
 -bolj enostaven GUI
+-- 3 gumbi 
+dostava v 30min, 1h, 2h
+temu primerna cena
++2€ veè, +1€ veè ...
