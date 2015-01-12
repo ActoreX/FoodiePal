@@ -1,0 +1,4 @@
+flow/tok dela v prihodnosti
+
+-cashflow ... dokaj realen za 1 leto
+-kaj bomo z denarjem od transakcij
