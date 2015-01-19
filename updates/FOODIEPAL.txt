@@ -1,0 +1,53 @@
+monetizacija - 5% naroèila
+cashflow
+Business model canvas
+swot
+scorecard**
+boleèina->rešitev
+primer uporabe
+
+Ameriški trg
+zakaj je ameriški trg boljši 
+boljši položaj dostavljalcev hrane
+
+q2 3 ... 4050*3*2=24300 
+q3 4 ... 4050*7*3=85050
+q3 8 ... 4050*15*3=182250 
+___________ (n=28)
+
+
+povpr. št. dostav/dnevno: 30
+
+povpr. cena naroèila: 30
+odstotek: 5% od 30 (ORIGINAL cene)= 1,5
+
+
+______________________
+dan*odstotek = 45 prihodek dnevno za nas 
+45*(30 dni) = 1350 prihodek meseèno za nas
+1350*3 = 4050 ... 1 restavracija/èetrtletje za nas
+
+
+
+dizajner
+meseèno: 900
+èetrtletje: 2700
+
+IT STORŠKI
+q1:
+na app store: 100
+Adobe CC: 50*3
+
+q2:
+2*100(cloud)+3*50cc
+
+q3:
+3*150(cloud)+3*50cc
+
+q4:
+3*250(cloud)+3*50cc
+
+
+zakaj seed:
+
+
